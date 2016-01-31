@@ -1,11 +1,19 @@
 
 Flipbook
 
-Windows tool for viewing small animation sequences from single image files.
+====================================================================================================
+
+Windows workbench for creating small animation sequences from single image files.
 
 Individual settings can be made for each frame and exported to a custom file format.
 
-It can be used for build extremely space efficient animations for embedded devices
+It can be used for build space efficient animations for embedded devices.
+
+
+
+======================================================================================================
+Copyright (c) Bjoern Seip
+nocoolnicksleft@gmail.com
 
 
 
